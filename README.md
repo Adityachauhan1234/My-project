@@ -1,2 +1,2 @@
 # My-project
-A simple calculator made by Aditya Chauhan
+A simple calculator using HTML,CSS and JavaScript.
